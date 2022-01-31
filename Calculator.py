@@ -1,5 +1,6 @@
     
-# simple calculator  @curious ProgrammeR           
+# simple calculator  @LEO
+
 
 from tkinter import *
 # Oprations in calcuator
